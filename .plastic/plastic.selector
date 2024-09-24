@@ -1,0 +1,4 @@
+repository "Lab1_Mohammad_Inshaul_Haque@SparksterYT@cloud"
+  path "/"
+    br "/main"
+    co "/main"
